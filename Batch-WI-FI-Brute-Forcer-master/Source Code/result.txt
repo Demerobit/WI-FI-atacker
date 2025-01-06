@@ -1,0 +1,10 @@
+Batch Wi-Fi Brute Forcer Result
+Target     : nikolozi
+At attempt : 1
+Password   : lado1970
+
+Batch Wi-Fi Brute Forcer Result
+Target     : HUAWEI-mvMb
+At attempt : 34
+Password   : 22222222
+
