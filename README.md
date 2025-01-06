@@ -1,2 +1,3 @@
 # WI-FI-atacker
-attacks wifi gets pasword and connects. educational purposes only.
+Educational purposes only.
+I hope you learn something and get fun.
